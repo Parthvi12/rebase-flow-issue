@@ -8,8 +8,8 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4895,
-          "snapColumns": 63,
+          "rightColumn": 4890,
+          "snapColumns": 60,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
@@ -95,7 +95,7 @@
               "mobileRightColumn": 33,
               "defaultOptionValue": "md",
               "animateLoading": true,
-              "parentColumnSpace": 12.578125,
+              "parentColumnSpace": 12.578128,
               "leftColumn": 0,
               "dynamicBindingPathList": [
                 {
