@@ -10,6 +10,9 @@
   "unreadCommentThreads": 0,
   "color": "#FBF4ED",
   "icon": "email",
+  "unpublishedAppLayout": {
+    "type": "TABLET"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
