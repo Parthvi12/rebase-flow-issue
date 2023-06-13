@@ -8,8 +8,8 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4890,
-          "snapColumns": 60,
+          "rightColumn": 4800,
+          "snapColumns": 55,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
@@ -118,8 +118,8 @@
                   "value": "md"
                 },
                 {
-                  "label": "lg",
-                  "value": "lg"
+                  "label": "sb",
+                  "value": "sb"
                 },
                 {
                   "label": "xl",
